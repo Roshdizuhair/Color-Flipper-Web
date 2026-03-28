@@ -9,7 +9,6 @@ This project is a simple web application that allows users to change the backgro
 
 ## Technologies Used
 - HTML
-- CSS
 - JavaScript
 
 ## Author
